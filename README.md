@@ -12,5 +12,5 @@ Los temas que se ven en esta sección son:
 - Impresiones en el HTML.
 - Definición de los `PropTypes`.
 - Definición de los `DefaultProps`.
-Introducción general a los Hooks.
-- Uso del Hook: `useState`.
+- Introducción general a los Hooks. 
+- Uso del hook: `useState`.
